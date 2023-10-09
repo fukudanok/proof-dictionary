@@ -1,0 +1,10 @@
+id: 01HCB963RPRMA7N90HKB2CMGWC
+description: ''
+expected: Compose
+patterns:
+  - Copmpose
+allows: []
+specs:
+  - from: Copmpose
+    to: Compose
+tags: []
